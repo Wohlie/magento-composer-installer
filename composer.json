@@ -1,5 +1,6 @@
 {
     "name": "magento/magento-composer-installer",
+    "version": "6.6.666",
     "description": "Composer installer for Magento modules",
     "keywords": [
         "composer-installer",
